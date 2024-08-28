@@ -1,1 +1,8 @@
 not found page.
+
+fetching data server side 
+
+Client Side fetching data
+
+SWR hook 'https://swr.vercel.app/'
+
